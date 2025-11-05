@@ -1,3 +1,6 @@
+from collections import Counter
+from sortedcontainers import SortedList
+
 class Solution:
     def findXSum(self, nums, k, x):
         freq = Counter()
