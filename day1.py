@@ -147,3 +147,12 @@ class Solution(object):
             else: right = mid - 1
 
         return right
+
+#1618
+class Solution:
+    def minimumOneBitOperations(self, n: int) -> int:
+        res = 0
+        while n:
+            res ^= n
+            n >>= 1
+        return res
