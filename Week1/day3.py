@@ -21,3 +21,19 @@ class Solution:
     def majorityElement(self,nums):
         nums.sort()
         return nums[len(nums)//2]
+
+
+#Another solution using haspmap counting
+class Solution:
+    def majorityElement(self,nums):
+        count={}
+        majority=len(nums)//2
+        for num in nums:
+            if num in count:
+                count[num]+=1
+            else:
+                count[num]=1
+            if count[num]>majority:
+                return num
+
+        
