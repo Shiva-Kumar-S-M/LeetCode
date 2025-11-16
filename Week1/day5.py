@@ -93,3 +93,25 @@ class Solution:
                     ans += (Rmax - r + 1)
 
         return ans
+
+#1513 Given a binary string s, return the number of substrings with all characters 1's. Since the answer may be too large, return it modulo 109 + 7.
+
+ 
+
+# Example 1:
+
+# Input: s = "0110111"
+# Output: 9
+# Explanation: There are 9 substring in total with only 1's characters.
+# "1" -> 5 times.
+# "11" -> 3 times.
+# "111" -> 1 time.
+
+class Solution:
+    def numSub(self, s: str) -> int:
+        cnt = 0
+        for part in s.split('0'):
+            n = len(part)
+            cnt += n*(n+1)
+
+        return (cnt // 2) % (10**9 + 7)
