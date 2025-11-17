@@ -58,4 +58,22 @@ class Solution:
             profit = max(profit,prices[i] - minSoFar)
         return profit
 __import__("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
+
+
+
+#Another approach for best time to buy and sell stock
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        left = 0
+        right = 1
+        maxProfit = 0
+
+        while right < len(prices):
+            if prices[left] < prices[right]:
+                profit = prices[right] - prices[left]
+                maxProfit = max(maxProfit, profit)
+            else:
+                left = right
+            right += 1
+        return maxProfit
         
