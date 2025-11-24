@@ -196,3 +196,12 @@ class Solution:
             return s - min(r11, r21+r22)
         if s % 3 == 2:
             return s - min(r21, r11+r12) 
+
+class Solution:
+    def prefixesDivBy5(self, nums: List[int]) -> List[bool]:
+        val = 0
+        for i in range(len(nums)):
+            val = ((val << 1) + nums[i]) % 5
+            nums[i] = val == 0
+        return nums
+
