@@ -227,3 +227,12 @@ class Solution:
             result[i] *= postfix_product
             postfix_product *= nums[i]
         return result
+    
+#122 Best time to buy and sell stock II
+class Solution:
+    def maxProfit(self,prices:List[int]):
+        profit=0
+        for i in range(1,len(prices)):
+            if prices[i]> prices[i-1]:
+                profit+=(prices[i]-prices[i-1])
+        return profit
