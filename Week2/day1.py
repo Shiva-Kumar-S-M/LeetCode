@@ -282,3 +282,17 @@ class Solution:
             prev, curr = curr, prev
 
         return prev[n - 1][0]
+
+#2348 Number of zero filled subarrays
+class Solution:
+    def zeroFilledSubarray(self, nums: List[int]) -> int:
+        res,count=0,0
+
+        for i in range(len(nums)):
+            if nums[i]==0:
+                count+=1
+                res+=count
+            else:
+                count=0
+            
+        return res
