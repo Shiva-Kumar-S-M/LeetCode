@@ -301,15 +301,14 @@ class Solution:
 #334 Increasing Triplet Subsequence
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        first = second = float('inf')
-        
+        i=float('inf')
+        j=float('inf')
         for num in nums:
-            if num <= first:
-                first = num
-            elif num <= second:
-                second = num
+            if num<=i:
+                i=num
+            elif num<=j:
+                j=num
             else:
                 return True
-        
         return False
     
