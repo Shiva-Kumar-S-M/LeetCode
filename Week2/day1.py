@@ -417,4 +417,18 @@ class Solution:
                 if(r>0 and r<numRows-1 and i+increment-2*r<len(s)):
                     res+=s[i+increment-2*r]
         return res
-        
+
+#151 Revere words in a string
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        words=s.split()
+        words.reverse()
+        return " ".join(words)
+    
+#Another approach for 151 Revere words in a string
+class Solution:
+    def reverseWords(self,s:str)->str:
+        words=s.split
+        rev=words[::-1]
+        rev_str=" ".join(rev)
+        return rev_str
