@@ -490,3 +490,11 @@ class Solution:
 
         # Step 5: Return the computed sum for the current subtree
         return sum_
+
+#136 Single number
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        x=0
+        for i in nums:
+            x^=i
+        return x
