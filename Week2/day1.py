@@ -525,3 +525,13 @@ class Solution:
             bit=(n>>i)&1
             result|=bit<<(31-i)
         return result
+
+#201 Bitwise AND of numbers range
+class Solution:
+    def rangeBitwiseAnd(self, left: int, right: int) -> int:
+        shift=0
+        while left<right:
+            left>>=1
+            right>>=1
+            shift+=1
+        return left<<shift
