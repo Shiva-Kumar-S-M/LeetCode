@@ -503,3 +503,16 @@ class Solution:
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
         return sum(nums)%k
+    
+
+#338 Count bits
+class Solution:
+    def countBits(self, n: int) -> List[int]:
+        dp=1*(n+1)
+        offset=1
+
+        for i in range(1,n+1):
+            if offset*2==i:
+                offset=i
+            dp[i]=1+dp[i-offset]
+        return dp
