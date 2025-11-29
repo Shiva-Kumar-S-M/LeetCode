@@ -498,3 +498,8 @@ class Solution:
         for i in nums:
             x^=i
         return x
+
+#3512 Minimum operations to make array sum divisible by k
+class Solution:
+    def minOperations(self, nums: List[int], k: int) -> int:
+        return sum(nums)%k
