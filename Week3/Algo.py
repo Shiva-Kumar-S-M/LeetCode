@@ -46,3 +46,68 @@ class MyHashMap:
         return val if val != None else -1
     def remove(self, key: int) -> None:
         self.data[key] = None
+
+class Solution:
+    def largestMagicSquare(self, grid: List[List[int]]) -> int:
+        m, n = len(grid), len(grid[0])
+        res = 1
+
+        def isValid(i, j, k):
+            s = None
+            for x in range(i, i + k):
+                row = sum(grid[x][j:j + k])
+                if s is None: s = row
+                elif s != row: return False
+
+            for y in range(j, j + k):
+                if sum(grid[x][y] for x in range(i, i + k)) != s:
+                    return False
+
+            if sum(grid[i + d][j + d] for d in range(k)) != s:
+                return False
+
+            if sum(grid[i + d][j + k - 1 - d] for d in range(k)) != s:
+                return False
+
+            return True
+
+        for k in range(2, min(m, n) + 1):
+            for i in range(m - k + 1):
+                for j in range(n - k + 1):
+                    if isValid(i, j, k):
+                        res = k
+        return res
+
+class Solution:
+    def maxNumberOfBalloons(self, text: str) -> int:
+        # Create a frequency map for the input string
+        freqMap = {}
+        for c in text:
+            freqMap[c] = freqMap.get(c, 0) + 1
+
+        # Store the required frequencies of each character in 'balloon'
+        balloon = "balloon"
+
+        # Calculate the max number of "balloon" words
+        maxBalloons = float('inf')
+        balloonFreq = {}
+        for c in balloon:
+            balloonFreq[c] = balloonFreq.get(c, 0) + 1
+
+        # Calculate the max possible number of "balloon" we can form
+        for key, count in balloonFreq.items():
+            maxBalloons = min(maxBalloons, freqMap.get(key, 0) // count)
+
+        return 0 if maxBalloons == float('inf') else maxBalloons
+    
+class Solution:
+    def numIdenticalPairs(self, nums):
+        count = 0
+        # Outer loop to fix the first element of the pair
+        for i in range(len(nums)):
+            # Inner loop to fix the second element of the pair
+            for j in range(i + 1, len(nums)):
+                # Check if we have a good pair
+                if nums[i] == nums[j]:
+                    count += 1
+        return count
