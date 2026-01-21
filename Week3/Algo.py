@@ -209,3 +209,55 @@ class Solution:
 
         # All characters needed are available in the magazine.
         return True
+class Solution:
+    def minBitwiseArray(self, nums: List[int]) -> List[int]:
+        res = []
+        for n in nums:
+            if n & 1:
+                res.append(n & ~(((n + 1) & ~n) >> 1))
+            else:
+                res.append(-1)
+        return res
+    
+
+class Solution:
+    def containsNearbyDuplicate(self, nums, k):
+        # Loop through each element in the array as the first element of the pair
+        for i in range(len(nums)):
+            # Loop through each element after the i-th element
+            j = i + 1
+            while j <= i + k and j < len(nums):
+                # If the same element is found within k distance, return true
+                if nums[i] == nums[j]:
+                    return True
+                j += 1
+        # If no such pair is found, return false
+        return False
+    
+class Solution:
+    def minBitwiseArray(self, nums: List[int]) -> List[int]:
+        ans = []
+        for n in nums:
+            if n != 2:
+                ans.append(n - ((n + 1) & (-n - 1)) // 2)
+            else:
+                ans.append(-1)
+        return ans
+
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        # Map to store the list of anagrams
+        anagram_map: dict[str, list[str]] = {}
+
+        for word in strs:
+            # Convert the word to a sorted-character key
+            sorted_word = "".join(sorted(word))
+            # If the sorted word is not in the map, add it with an empty list
+            if sorted_word not in anagram_map:
+                anagram_map[sorted_word] = []
+            # Append the original word to the corresponding list
+            anagram_map[sorted_word].append(word)
+
+        # Return the grouped list of anagrams
+        return list(anagram_map.values())
+
