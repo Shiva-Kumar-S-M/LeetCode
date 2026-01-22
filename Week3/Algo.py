@@ -261,3 +261,85 @@ class Solution:
         # Return the grouped list of anagrams
         return list(anagram_map.values())
 
+class Solution:
+    def minimumPairRemoval(self, nums: List[int]) -> int:
+        def isSorted(nums, n) -> bool:
+            for i in range(1,n):
+                if nums[i] < nums[i - 1]: return False
+            return True
+        ans, n = 0, len(nums)
+        while not isSorted(nums, n):
+            ans += 1
+            min_sum, pos = float('inf'), -1
+            for i in range(1,n):
+                sum = nums[i - 1] + nums[i]
+                if sum < min_sum:
+                    min_sum = sum
+                    pos = i
+            nums[pos - 1] = min_sum
+            for i in range(pos, n-1): nums[i] = nums[i + 1]
+            n -= 1
+        return ans
+
+class Solution:
+    def reorganizeString(self, S: str) -> str:
+        count = [0] * 26
+        for c in S:
+            count[ord(c) - ord('a')] += 1
+
+        # Find the character with the maximum frequency
+        max_count = 0
+        max_char_idx = 0
+        for i in range(26):
+            if count[i] > max_count:
+                max_count = count[i]
+                max_char_idx = i
+        max_char = chr(max_char_idx + ord('a'))
+
+        # Check if reorganization is possible
+        if max_count > (len(S) + 1) // 2:
+            return ""
+
+        result = [''] * len(S)
+        index = 0
+
+        # Place the highest frequency character at even positions
+        while count[max_char_idx] > 0:
+            result[index] = max_char
+            index += 2
+            count[max_char_idx] -= 1
+
+        # Fill other characters
+        for i in range(26):
+            while count[i] > 0:
+                if index >= len(S):
+                    index = 1  # Switch to odd positions
+                result[index] = chr(i + ord('a'))
+                index += 2
+                count[i] -= 1
+
+        return "".join(result)
+    
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+
+        nums.sort()
+
+        longest_streak = 1
+        current_streak = 1
+
+        for i in range(1, len(nums)):
+            # if the current element is identical to the previous,
+            # just continue through the iteration
+            if nums[i] == nums[i - 1]:
+                continue
+            # check for consecutive sequence
+            if nums[i] == nums[i - 1] + 1:
+                current_streak += 1
+            else:
+                longest_streak = max(longest_streak, current_streak)
+                current_streak = 1
+
+        return max(longest_streak, current_streak)
