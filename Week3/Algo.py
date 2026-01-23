@@ -343,3 +343,138 @@ class Solution:
                 current_streak = 1
 
         return max(longest_streak, current_streak)
+
+class Solution:
+    def minimumPairRemoval(self, nums: List[int]) -> int:
+        n = len(nums)
+        if n <= 1:
+            return 0
+
+        arr = [int(x) for x in nums]
+        removed = [False] * n
+        heap = []
+        asc = 0
+        for i in range(1, n):
+            heapq.heappush(heap, (arr[i - 1] + arr[i], i - 1))
+            if arr[i] >= arr[i - 1]:
+                asc += 1
+        if asc == n - 1:
+            return 0
+
+        rem = n
+        prev = [i - 1 for i in range(n)]
+        nxt = [i + 1 for i in range(n)]
+
+        while rem > 1:
+            if not heap:
+                break
+            sumv, left = heapq.heappop(heap)
+            right = nxt[left]
+            if right >= n or removed[left] or removed[right] or arr[left] + arr[right] != sumv:
+                continue
+
+            pre = prev[left]
+            after = nxt[right]
+
+            if arr[left] <= arr[right]:
+                asc -= 1
+            if pre != -1 and arr[pre] <= arr[left]:
+                asc -= 1
+            if after != n and arr[right] <= arr[after]:
+                asc -= 1
+
+            arr[left] += arr[right]
+            removed[right] = True
+            rem -= 1
+
+            if pre != -1:
+                heapq.heappush(heap, (arr[pre] + arr[left], pre))
+                if arr[pre] <= arr[left]:
+                    asc += 1
+            else:
+                prev[left] = -1
+
+            if after != n:
+                prev[after] = left
+                nxt[left] = after
+                heapq.heappush(heap, (arr[left] + arr[after], left))
+                if arr[left] <= arr[after]:
+                    asc += 1
+            else:
+                nxt[left] = n
+
+            if asc == rem - 1:
+                return n - rem
+
+        return n
+
+
+class Solution:
+    def isPossible(self, nums: List[int]) -> bool:
+        # Frequency map to track counts of each number
+        frequency: Dict[int, int] = {}
+        # To track where an element is needed to continue a sequence
+        appendNeeded: Dict[int, int] = {}
+
+        # Populate the frequency map
+        for num in nums:
+            frequency[num] = frequency.get(num, 0) + 1
+
+        # Iterate over the array
+        for num in nums:
+            if frequency.get(num, 0) == 0:
+                continue
+
+            # If there is a requirement to append num to a sequence
+            if appendNeeded.get(num, 0) > 0:
+                # Reduce the need and increase the need for num+1
+                appendNeeded[num] = appendNeeded.get(num, 0) - 1
+                appendNeeded[num + 1] = appendNeeded.get(num + 1, 0) + 1
+            # Try to create a new sequence [num, num+1, num+2]
+            elif frequency.get(num + 1, 0) > 0 and frequency.get(num + 2, 0) > 0:
+                # Use num, num+1 and num+2
+                frequency[num + 1] = frequency.get(num + 1, 0) - 1
+                frequency[num + 2] = frequency.get(num + 2, 0) - 1
+                # Now num+3 is awaited
+                appendNeeded[num + 3] = appendNeeded.get(num + 3, 0) + 1
+            # If none of the above actions are possible, return false
+            else:
+                return False
+
+            # Decrease frequency of current number as it's used
+            frequency[num] = frequency.get(num, 0) - 1
+
+        # Returning true as all numbers can be split into subsequences
+        return True
+    
+class Solution:
+    def numMatchingSubseq(self, s: str, words: List[str]) -> int:
+        char_index_map: Dict[str, List[int]] = defaultdict(list)
+
+        for i, c in enumerate(s):
+            char_index_map[c].append(i)
+
+        count = 0
+        for word in words:
+            if self.isSubsequenceWithMap(char_index_map, word):
+                count += 1
+
+        return count
+
+    def isSubsequenceWithMap(self, char_index_map: Dict[str, List[int]], word: str) -> bool:
+        prev_index = -1
+
+        for c in word:
+            if c not in char_index_map:
+                return False  # If the character is not present in `s`
+
+            indices = char_index_map[c]
+            # Use binary search to find the smallest index greater than prevIndex
+            pos = bisect_left(indices, prev_index + 1)
+
+            if pos == len(indices):
+                return False  # No valid position found
+
+            prev_index = indices[pos]  # Update prevIndex
+
+        return True
