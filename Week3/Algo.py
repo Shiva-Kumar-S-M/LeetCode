@@ -503,3 +503,110 @@ class Solution:
             min_diff = min(min_diff, current_diff)
             
         return min_diff
+
+class Solution:
+    def minimumAbsDifference(self, A: List[int]) -> List[List[int]]:
+        A.sort()
+        n = len(A)
+        minDiff = 2e6 + 1
+        res = []
+
+        for i in range(1, n):
+            diff = A[i] - A[i - 1]
+            if diff < minDiff:
+                minDiff = diff
+                res = [[A[i - 1], A[i]]]
+            elif diff == minDiff:
+                res.append([A[i - 1], A[i]])
+
+        return res
+
+class Solution:
+    def numSplits(self, s: str) -> int:
+        goodSplits = 0
+        
+        # Try each possible split point
+        for i in range(1, len(s)):
+            left = s[:i]
+            right = s[i:]
+            
+            # Count distinct characters on both sides
+            leftUnique = self.countUnique(left)
+            rightUnique = self.countUnique(right)
+            
+            # If both have the same number of unique characters, it's a good split
+            if leftUnique == rightUnique:
+                goodSplits += 1
+        
+        return goodSplits
+    
+    def countUnique(self, s: str) -> int:
+        seen = [False] * 26
+        count = 0
+        for c in s:
+            idx = ord(c) - ord('a')
+            if not seen[idx]:
+                count += 1
+                seen[idx] = True
+        return count
+
+class Solution:
+    def numSplits(self, s: str) -> int:
+        n = len(s)
+        leftFreq = [0] * 26
+        rightFreq = [0] * 26
+        
+        # Initialize right frequency table
+        for ch in s:
+            rightFreq[ord(ch) - ord('a')] += 1
+        
+        leftUnique = 0
+        rightUnique = 0
+        
+        # Count initial unique characters in right part
+        for count in rightFreq:
+            if count > 0:
+                rightUnique += 1
+        
+        goodSplits = 0
+
+        # Process each split point
+        for i in range(n):
+            c = s[i]
+            
+            # Move character from right to left
+            idx = ord(c) - ord('a')
+            if leftFreq[idx] == 0:
+                leftUnique += 1
+            leftFreq[idx] += 1
+            
+            rightFreq[idx] -= 1
+            if rightFreq[idx] == 0:
+                rightUnique -= 1
+            
+            # Check for good split
+            if leftUnique == rightUnique:
+                goodSplits += 1
+        
+        return goodSplits
+
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        # Pointers for nums1, nums2 and the end of merged array
+        p1, p2, p = m - 1, n - 1, m + n - 1
+        
+        # Merge arrays starting from the end
+        while p1 >= 0 and p2 >= 0:
+            if nums1[p1] > nums2[p2]:
+                nums1[p] = nums1[p1]
+                p1 -= 1
+            else:
+                nums1[p] = nums2[p2]
+                p2 -= 1
+            p -= 1
+        
+        # If there are any remaining elements in nums2, move them to nums1
+        while p2 >= 0:
+            nums1[p] = nums2[p2]
+            p -= 1
+            p2 -= 1
