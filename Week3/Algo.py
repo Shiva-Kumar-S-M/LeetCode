@@ -610,3 +610,42 @@ class Solution:
             nums1[p] = nums2[p2]
             p -= 1
             p2 -= 1
+
+class Solution:
+    def minCost(self, n: int, edges: List[List[int]]) -> int:
+        adj=[[] for _ in range(n)]
+        for u, v, w in edges:
+            adj[u].append((w, v))
+            adj[v].append((w<<1, u))
+
+        dist=[0]+[inf]*(n-1)
+        pq=[(0, 0)]
+        heapq.heapify(pq)
+
+        while pq:
+            d, u=heapq.heappop(pq)
+
+            if d>dist[u]: continue
+            if u==n-1: return d
+
+            for w, v in adj[u]:
+                d2=d+w
+                if d2<dist[v]:
+                    dist[v]=d2
+                    heapq.heappush(pq, (d2, v))
+        return -1
+    
+class Solution:
+    def maxArea(self, height: list[int]) -> int:
+        i = 0
+        j = len(height) - 1
+        res = 0
+
+        while i < j:
+            res = max(res, (j - i) * min(height[i], height[j]))
+            if height[i] < height[j]:
+                i += 1
+            else:
+                j -= 1
+
+        return res
