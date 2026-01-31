@@ -73,3 +73,7 @@ class Solution:
                     dp[i + L] = min(dp[i + L], dp[i] + dist[id[s]][id[t]])
 
         return -1 if dp[n] == INF else dp[n]
+
+class Solution:
+    def Find_subsequence(self,nums):
+        return nums==sorted(nums)
