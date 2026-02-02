@@ -1,3 +1,4 @@
+from typing import List
 #Remove duplicates from sorted array
 def remove_duplicates(nums):
     if not nums:
