@@ -45,7 +45,7 @@ class solution:
             res.append(i.bit_count())
         return res
     
-
+from typing import List
 class Solution:
     def isTrionic(self, nums: List[int]) -> bool:
         n = len(nums)
