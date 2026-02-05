@@ -113,3 +113,5 @@ class Solution:
 class Solution:
     def constructTransformedArray(self, A: List[int]) -> List[int]:
         return [A[(i + v) % len(A)] for i, v in enumerate(A)]
+    
+print(Solution().constructTransformedArray([0,1,2,4,5,6,7,8,9]))
