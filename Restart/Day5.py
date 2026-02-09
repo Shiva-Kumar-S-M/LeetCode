@@ -1,7 +1,7 @@
 #Single number 2> 137
 from ast import List
 from collections import defaultdict
-from typing import Tuple
+from typing import Optional, Tuple
 
 
 class Solution:
@@ -148,7 +148,7 @@ class Solution:
 
 #py3
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+    def isBalanced(self, root: Optional[TreeNode]) -> bool: # type: ignore
         def dfs(node):
             if not node:
                 return 0
@@ -165,3 +165,33 @@ class Solution:
             return 1 + max(left, right)
             
         return dfs(root) != -1
+    
+
+#121 best time to buy and sell stock:
+class Solution:
+    def maxProfit(self,prices):
+        min=float('inf')
+        max=0
+
+        for price in prices:
+            if price<min:
+                min=price
+            
+            profit=price-min
+
+            if profit>max:
+                max=profit
+
+        return max
+    
+
+
+#122 best time to buys and sell stock 2
+class Solution:
+    def maxProfit(self,prices):
+        profit=0
+
+        for i in range(1,len(prices)):
+            if prices[i]>prices[i-1]:
+                profit+=prices[i]-prices[i-1]
+        return profit
