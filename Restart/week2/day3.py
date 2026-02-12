@@ -1,5 +1,8 @@
 #88 Merge sorted array
 
+from typing import List
+
+
 class Solution:
     def merge(self,nums1,m,nums2,n):
         p1,p2,p=m-1,n-1,m+n-1
