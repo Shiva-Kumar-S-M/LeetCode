@@ -37,4 +37,40 @@ class Solution:
 
             return ''.join(stack)
         
-        
+
+#150 evaluate reverse polish notation (medium)
+class Solution:
+    def evalRPN(self,tokens):
+        stack=[]
+        for i in tokens:
+            if i in "+-*/":
+                b=stack.pop()
+                a=stack.pop()
+
+                if i=='+':
+                    stack.append(a+b)
+                elif i=='-':
+                    stack.append(a-b)
+                elif i=='*':
+                    stack.append(a*b)
+                else:
+                    stack.append(int(a/b))
+            else:
+                stack.append(int(i))
+                
+        return stack[0]
+    
+
+#Daily temperatures (medium)
+class Solution:
+    def dailyTemeperatures(self,temp):
+        stack=[]
+        res=[0]*len(temp)
+
+        for i in range(len(temp)):
+            while stack and temp[i]>temp[stack[-1]]:
+                idx=stack.pop()
+                res[idx]=i-idx
+            stack.append(i)
+
+        return res
