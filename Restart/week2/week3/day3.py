@@ -74,3 +74,9 @@ class Solution:
             n = q + r 
             q = (((q ^ n) // r) >> 2) | n
         return res
+
+
+class Solution:
+    def readBinaryWatch(self,n):
+        x=x^(x>>1)
+        return x&(x+1)==0
