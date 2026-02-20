@@ -97,3 +97,4 @@ class Solution:
             if strk <= prev: res += 1
 
         return res
+
