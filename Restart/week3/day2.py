@@ -37,3 +37,7 @@ class Solution:
         self.ans = 0
         dfs(root)
         return self.ans
+
+class Solution:
+    def sortByBits(self, arr):
+        return sorted(arr, key=lambda x: (x.bit_count(), x))
