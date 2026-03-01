@@ -39,3 +39,8 @@ class Solution:
         rev(k,n-1)
 
         
+#1689 parititioning into number of decimal binary number
+
+class Solution:
+    def minPartitions(self, n: str) -> int:
+        return int(max(n))
