@@ -11,4 +11,17 @@ class Solution:
                 nums[k]=nums[i]
         return k+1
     
-    
+
+#Number of zero filled subarrays 
+class Solution:
+    def zeroFilledSubarray(self,nums):
+        res,count=0,0
+
+        for num in nums:
+            if num==0:
+                count+=1
+                res+=count
+            else:
+                count=0
+
+        return res
