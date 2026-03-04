@@ -25,3 +25,18 @@ class Solution:
                 count=0
 
         return res
+    
+#Increasing Triplet Subsequence
+class Solution:
+    def increasingTriplet(self,nums):
+        num1=float('inf')
+        num2=float('inf')
+
+        for num in nums:
+            if num<=num1:
+                num1=num
+            elif num<=num2:
+                num2=num
+            else:
+                return True
+        return False
