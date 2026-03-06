@@ -66,3 +66,8 @@ class Solution:
             count += (ord(s[i]) ^ i) & 1
             
         return min(count, n - count)
+
+class Solution:
+    def checkOnesSegment(self, s: str) -> bool:
+        return "01" not in s
+        
