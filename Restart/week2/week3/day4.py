@@ -169,3 +169,29 @@ class Solution:
         for i in (1, 2, 4, 8, 16):
             mask |= mask >> i
         return ~n & mask
+
+class Solution:
+    def frequencySort(self, s: str) -> str:
+        # Step 1: Count frequency of each character
+        frequency_map: Dict[str, int] = {}
+        for c in s:
+            frequency_map[c] = frequency_map.get(c, 0) + 1
+
+        # Step 2: Create buckets for frequencies
+        max_frequency = len(s)
+        buckets: List[List[str] | None] = [None] * (max_frequency + 1)
+        for c, frequency in frequency_map.items():
+            if buckets[frequency] is None:
+                buckets[frequency] = []
+            buckets[frequency].append(c)
+
+        # Step 3: Build the result by traversing the buckets in reverse order
+        sb: List[str] = []
+        for i in range(max_frequency, 0, -1):
+            if buckets[i] is not None:
+                for c in buckets[i]:
+                    for _ in range(i):
+                        sb.append(c)
+
+        return "".join(sb)
+
