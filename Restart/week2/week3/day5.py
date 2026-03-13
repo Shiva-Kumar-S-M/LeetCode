@@ -22,3 +22,22 @@ class Solution:
         
         # No cycle present
         return None
+
+class Solution:
+    def isHappy(self, n: int) -> bool:
+        slow = n
+        fast = self.getNext(n)
+        
+        while fast != 1 and slow != fast:
+            slow = self.getNext(slow)              # Move one step
+            fast = self.getNext(self.getNext(fast))  # Move two steps
+        
+        return fast == 1
+
+    def getNext(self, n: int) -> int:
+        totalSum = 0
+        while n > 0:
+            digit = n % 10
+            totalSum += digit * digit
+            n //= 10
+        return totalSum
