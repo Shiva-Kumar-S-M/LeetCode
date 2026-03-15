@@ -93,11 +93,11 @@ class Solution:
         return "".join(result)
 
 class Solution:
-    def delNodes(self, root: Optional[TreeNode], to_delete: list[int]) -> list[TreeNode]:
-        res: dict[int, TreeNode] = {root.val: root}
+    def delNodes(self, root: Optional[TreeNode], to_delete: list[int]) -> list[TreeNode]: # type: ignore
+        res: dict[int, TreeNode] = {root.val: root} # type: ignore
         to_delete: set[int] = set(to_delete)
 
-        def recursion(parent: TreeNode | None, cur_node: TreeNode | None, isleft: bool) -> None:
+        def recursion(parent: TreeNode | None, cur_node: TreeNode | None, isleft: bool) -> None: # type: ignore
             nonlocal res
             if cur_node is None:
                 return
@@ -124,7 +124,7 @@ class Solution:
         return res.values()
 
 class Solution:
-    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]: # type: ignore
     
         if not root:
             return
