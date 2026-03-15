@@ -19,3 +19,21 @@ The purpose of this repository is to:
 • Master data structures and algorithms  
 • Recognize common coding interview patterns  
 • Maintain a consistent daily coding habit
+
+## Repository Structure
+
+arrays/ → array based problems  
+strings/ → string manipulation problems  
+linked_list/ → linked list algorithms  
+trees/ → binary tree problems  
+dynamic_programming/ → DP pattern problems
+
+## Progress Tracker
+
+Total Problems Solved: 25
+
+| Difficulty | Solved |
+|------------|--------|
+| Easy       | 15     |
+| Medium     | 8      |
+| Hard       | 2      |
