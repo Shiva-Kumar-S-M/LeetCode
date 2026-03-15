@@ -30,10 +30,36 @@ dynamic_programming/ → DP pattern problems
 
 ## Progress Tracker
 
-Total Problems Solved: 25
+| Problem                      | Difficulty | Topic       | Solution |
+| ---------------------------- | ---------- | ----------- | -------- |
+| Two Sum                      | Easy       | Arrays      | Python   |
+| Valid Palindrome             | Easy       | Strings     | Python   |
+| Reverse Linked List          | Easy       | Linked List | Python   |
+| Maximum Depth of Binary Tree | Easy       | Trees       | Python   |
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy       | 15     |
-| Medium     | 8      |
-| Hard       | 2      |
+*Total Problems Solved: 4*
+
+##  Patterns I'm Learning
+
+While solving problems, I'm trying to recognize common algorithm patterns:
+
+• Two Pointer
+• Sliding Window
+• Hash Map / Hash Set
+• Binary Search
+• Depth First Search (DFS)
+• Breadth First Search (BFS)
+• Dynamic Programming
+
+Understanding patterns makes solving new problems much easier over time.
+
+##  Why This Repository Exists
+
+This repository is a small record of my effort to become better at problem-solving.
+
+The goal is not to rush through problems, but to understand the patterns behind them and build stronger algorithmic thinking over time.
+
+One problem at a time.
+
+
+
