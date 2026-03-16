@@ -30,12 +30,12 @@ dynamic_programming/ → DP pattern problems
 
 ## Progress Tracker
 
-| Problem                      | Difficulty | Topic       | Solution |
-| ---------------------------- | ---------- | ----------- | -------- |
-| Two Sum                      | Easy       | Arrays      | Python   |
-| Valid Palindrome             | Easy       | Strings     | Python   |
-| Reverse Linked List          | Easy       | Linked List | Python   |
-| Maximum Depth of Binary Tree | Easy       | Trees       | Python   |
+| Problem                          | Difficulty    | Topic             | Solution |
+| -------------------------------  | ------------- | ----------------  | -------- |
+| Two Sum                          | Easy          | Arrays            | Python   |
+| Best time to buy and sell stock  | Easy          | Arrays            | Python   |
+| Rotate array                     | Medium        | Arrays            | Python   |
+|Best time to buy and sell stock 2 | medium        | Arrays            | Python   |
 
 *Total Problems Solved: 4*
 
