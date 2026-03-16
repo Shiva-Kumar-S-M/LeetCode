@@ -36,8 +36,9 @@ dynamic_programming/ → DP pattern problems
 | Best time to buy and sell stock  | Easy          | Arrays            | Python   |
 | Rotate array                     | Medium        | Arrays            | Python   |
 |Best time to buy and sell stock 2 | medium        | Arrays            | Python   |
+|Search insert position            | Easy          | Binary Search     | Python   |
 
-*Total Problems Solved: 4*
+*Total Problems Solved: 5*
 
 ##  Patterns I'm Learning
 
