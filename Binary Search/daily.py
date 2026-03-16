@@ -34,3 +34,5 @@ class Solution:
                     k += 1
 
         return sorted(s, reverse=True)[:3]
+    
+print("hello world")
