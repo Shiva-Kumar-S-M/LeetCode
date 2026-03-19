@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def getBiggestThree(self, grid):
         m, n = len(grid), len(grid[0])
