@@ -37,6 +37,7 @@ dynamic_programming/ → DP pattern problems
 | Rotate array                     | Medium        | Arrays            | Python   |
 |Best time to buy and sell stock 2 | medium        | Arrays            | Python   |
 |Search insert position            | Easy          | Binary Search     | Python   |
+|Peak element                      | Medium        | Binary Search     | Python   |
 
 *Total Problems Solved: 5*
 
