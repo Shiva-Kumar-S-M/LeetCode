@@ -1,0 +1,11 @@
+class Solution:
+    def countZeroFilledSubarrays(self,nums):
+        count=0
+        res=0
+        for num in nums:
+            if num==0:
+                count+=1
+                res+=count
+            else:
+                count=0
+        return res
