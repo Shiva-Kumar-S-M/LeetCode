@@ -1,3 +1,7 @@
+from collections import defaultdict
+from typing import List
+
+
 class Solution:
     def countZeroFilledSubarrays(self,nums):
         count=0
@@ -44,8 +48,8 @@ class Solution:
 
         total = 0
         bottom = defaultdict(int)
-        top = defaultdict(int)
-        left = defaultdict(int)
+        top = defaultdict(int) # type: ignore
+        left = defaultdict(int) # type: ignore
         right = defaultdict(int)
 
         # Initialize bottom and right maps
