@@ -190,3 +190,12 @@ class Solution:
                 (s1[0] == s2[2] and s1[2] == s2[0])) and \
                ((s1[1] == s2[1] and s1[3] == s2[3]) or
                 (s1[1] == s2[3] and s1[3] == s2[1]))
+    
+class Solution:
+    def closestTarget(self, words: List[str], target: str, s: int) -> int:
+        n = len(words)
+        for i in range((n >> 1) + 1):
+            if ((words[(s + i) % n] == target) |
+                (words[(s - i) % n] == target)):
+                return i
+        return -1
