@@ -259,4 +259,7 @@ class Solution:
             x, r=divmod(x, 10)
             rev=10*rev+r
         return abs(rev-n)
+
+
+
         

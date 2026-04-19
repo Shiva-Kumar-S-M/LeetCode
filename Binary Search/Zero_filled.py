@@ -558,3 +558,14 @@ class Solution:
                     dp[i][j] = min(dp[i][j], dp[i-k][j-1] + dist)
 
         return dp[n][m]
+
+
+class Solution:
+    def maxDistance(self, A: List[int], B: List[int]) -> int:
+        i, j = 0, 1
+
+        while i < len(A) and j < len(B):
+            i += A[i] > B[j]
+            j += 1
+
+        return j - i - 1
