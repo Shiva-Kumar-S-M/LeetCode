@@ -1,3 +1,4 @@
+from bisect import bisect_left
 from collections import defaultdict
 import math
 import string
