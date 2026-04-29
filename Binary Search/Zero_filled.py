@@ -4,6 +4,9 @@ import math
 import string
 from typing import List
 
+from numpy import inf
+from sympy import product
+
 
 class Solution:
     def countZeroFilledSubarrays(self,nums):
@@ -1012,7 +1015,7 @@ class Solution:
     def maxScore(self, grid: List[List[int]]) -> int:
 
         ans, m, n = -inf, len(grid), len(grid[0])
-        grid = [[inf]*n] + grid
+        grid = [[math.inf]*n] + grid
         grid = [[inf]+row for row in grid]
         # for row in grid: print(row)
         
