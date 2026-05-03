@@ -1095,3 +1095,8 @@ class Solution:
             any(c in '2569' for c in s) and not any(c in '347' for c in s)
             for s in map(str, range(1, n+1))
         )
+
+
+class Solution:
+    def rotateString(self, s: str, goal: str) -> bool:
+        return len(s) == len(goal) and goal in (s + s)
