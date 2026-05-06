@@ -2,7 +2,7 @@ from bisect import bisect_left
 from collections import defaultdict
 import math
 import string
-from typing import List
+from typing import List, Optional
 
 from numpy import inf
 from sympy import product
@@ -1115,7 +1115,7 @@ class Solution:
 #         self.val = val
 #         self.next = next
 class Solution:
-    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]: # type: ignore
 
         if not head:
             return None
