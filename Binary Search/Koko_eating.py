@@ -140,3 +140,19 @@ class Solution:
                     dp[j] = max(dp[j], dp[i] + 1)
 
         return dp[-1]
+
+
+class Solution:
+    def separateDigits(self, nums: List[int]) -> List[int]:
+        
+        result = []
+
+        for num in nums:
+
+            s = str(num)
+
+            for ch in s:
+
+                result.append(int(ch))
+
+        return result
