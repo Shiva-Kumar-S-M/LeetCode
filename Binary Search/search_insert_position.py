@@ -436,3 +436,22 @@ class SparseTable:
         k = (right - left).bit_length() - 1
         return max(self.Max[k][left], self.Max[k][right - (1 << k)]) - \
                min(self.Min[k][left], self.Min[k][right - (1 << k)])
+    
+
+class Solution:
+    def assignEdgeWeights(self, edges: List[List[int]]) -> int:
+        mod = 1_000_000_007
+        n = len(edges) + 1
+        graph = [[] for _ in range(n + 1)]
+        for u, v in edges:
+            graph[u].append(v)
+            graph[v].append(u)
+
+        def dfs(node: int, prev: int) -> int:
+            d = 0
+            for c in graph[node]:
+                if c != prev:
+                    d = max(d, dfs(c, node) + 1)
+            return d
+
+        return pow(2, dfs(1, 0) - 1, mod)
