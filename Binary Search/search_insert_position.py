@@ -654,3 +654,15 @@ class Solution:
         x = hour + minutes / 60
         diff = (11 * x) % 12
         return min(diff, 12 - diff) * 30
+
+
+class Solution:
+    def largestAltitude(self, gain: List[int]) -> int:
+        ans = acc = 0
+
+        for it in gain:
+            acc += it
+            d = acc - ans
+            ans += d & ~(d >> 0x1F)
+
+        return ans
