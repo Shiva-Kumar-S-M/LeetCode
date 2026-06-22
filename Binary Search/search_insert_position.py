@@ -710,3 +710,25 @@ class Solution:
             cnt += buy
             coins -= buy * x
         return cnt
+
+class Solution:
+    def maxNumberOfBalloons(self, text: str) -> int:
+        # Create a frequency map for the input string
+        freqMap = {}
+        for c in text:
+            freqMap[c] = freqMap.get(c, 0) + 1
+
+        # Store the required frequencies of each character in 'balloon'
+        balloon = "balloon"
+
+        # Calculate the max number of "balloon" words
+        maxBalloons = float('inf')
+        balloonFreq = {}
+        for c in balloon:
+            balloonFreq[c] = balloonFreq.get(c, 0) + 1
+
+        # Calculate the max possible number of "balloon" we can form
+        for key, count in balloonFreq.items():
+            maxBalloons = min(maxBalloons, freqMap.get(key, 0) // count)
+
+        return 0 if maxBalloons == float('inf') else maxBalloons
