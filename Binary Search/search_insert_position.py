@@ -864,3 +864,14 @@ class Solution:
             res = max(res, n + ((x in freq) << 1) - 1)
 
         return res
+
+class Solution:
+    def maximumElementAfterDecrementingAndRearranging(self, A: list[int]) -> int:
+        A.sort()
+        n = len(A)
+
+        A[0] = 1
+        for i in range(1, n):
+            A[i] = min(A[i], A[i - 1] + 1)
+            
+        return A[-1]
