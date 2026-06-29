@@ -875,3 +875,11 @@ class Solution:
             A[i] = min(A[i], A[i - 1] + 1)
             
         return A[-1]
+
+class Solution:
+    def numOfStrings(self, patterns: list[str], word: str) -> int:
+        count = 0
+        for s in patterns:
+            if word.find(s) != -1: # return -1 when not found
+                count += 1
+        return count
