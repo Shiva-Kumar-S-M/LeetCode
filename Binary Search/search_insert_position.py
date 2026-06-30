@@ -883,3 +883,13 @@ class Solution:
             if word.find(s) != -1: # return -1 when not found
                 count += 1
         return count
+
+class Solution:
+    def numberOfSubstrings(self, s: str) -> int:
+        res, p = 0, [5e4, -1, -1, -1]
+
+        for i, ch in enumerate(s):
+            p[ord(ch) & 31] = i
+            res += min(p) + 1
+
+        return res
