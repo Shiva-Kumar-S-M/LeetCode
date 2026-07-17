@@ -71,6 +71,7 @@ One problem at a time.
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -82,6 +83,7 @@ One problem at a time.
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -90,6 +92,7 @@ One problem at a time.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -100,10 +103,12 @@ One problem at a time.
 | [0001-two-sum](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -151,6 +156,7 @@ One problem at a time.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +172,7 @@ One problem at a time.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -173,4 +180,8 @@ One problem at a time.
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
