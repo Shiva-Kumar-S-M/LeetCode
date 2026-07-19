@@ -71,6 +71,7 @@ One problem at a time.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -95,6 +96,7 @@ One problem at a time.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -132,6 +134,7 @@ One problem at a time.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
