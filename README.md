@@ -98,6 +98,7 @@ One problem at a time.
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -191,6 +192,7 @@ One problem at a time.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -204,4 +206,8 @@ One problem at a time.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
