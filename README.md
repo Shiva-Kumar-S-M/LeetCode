@@ -103,6 +103,7 @@ One problem at a time.
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0414-third-maximum-number) |
 | [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -147,6 +148,7 @@ One problem at a time.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
