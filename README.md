@@ -111,6 +111,7 @@ One problem at a time.
 | [0414-third-maximum-number](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0414-third-maximum-number) |
 | [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -224,6 +225,7 @@ One problem at a time.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
