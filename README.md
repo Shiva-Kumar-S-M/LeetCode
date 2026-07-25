@@ -83,6 +83,7 @@ One problem at a time.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -129,6 +130,7 @@ One problem at a time.
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -188,6 +190,7 @@ One problem at a time.
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
