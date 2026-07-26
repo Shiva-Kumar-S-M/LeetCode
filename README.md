@@ -72,6 +72,7 @@ One problem at a time.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -112,6 +113,7 @@ One problem at a time.
 | [0238-product-of-array-except-self](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -193,6 +195,7 @@ One problem at a time.
 | [0229-majority-element-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
