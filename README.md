@@ -134,6 +134,7 @@ One problem at a time.
 | [0414-third-maximum-number](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -160,6 +161,7 @@ One problem at a time.
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -347,4 +349,16 @@ One problem at a time.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
