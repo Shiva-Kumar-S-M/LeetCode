@@ -297,6 +297,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -338,4 +339,8 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
