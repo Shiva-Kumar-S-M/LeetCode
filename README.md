@@ -297,6 +297,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -339,6 +340,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -348,4 +350,8 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
