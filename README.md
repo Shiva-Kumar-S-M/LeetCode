@@ -343,6 +343,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
@@ -357,8 +358,13 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
