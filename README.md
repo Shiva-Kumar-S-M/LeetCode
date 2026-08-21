@@ -308,6 +308,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -315,6 +316,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
 | ------- |
@@ -374,6 +376,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -384,4 +387,16 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
