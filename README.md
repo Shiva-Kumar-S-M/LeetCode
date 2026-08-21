@@ -300,6 +300,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0001-two-sum](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -311,6 +312,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
@@ -355,6 +357,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
