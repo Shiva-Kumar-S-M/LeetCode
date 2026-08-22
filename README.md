@@ -299,6 +299,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0001-two-sum](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
@@ -359,6 +360,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 ## Simulation
