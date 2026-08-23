@@ -318,6 +318,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -326,6 +327,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -340,6 +342,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -393,6 +396,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0014-longest-common-prefix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
+| [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
