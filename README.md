@@ -300,6 +300,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0001-two-sum](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
@@ -404,6 +405,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
