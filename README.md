@@ -309,6 +309,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0283-move-zeroes](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0283-move-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -319,6 +320,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -333,6 +335,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -343,6 +346,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -352,12 +356,14 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -423,4 +429,8 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
