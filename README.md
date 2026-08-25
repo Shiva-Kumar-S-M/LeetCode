@@ -315,6 +315,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -374,6 +375,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
