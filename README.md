@@ -374,6 +374,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
@@ -421,6 +422,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
