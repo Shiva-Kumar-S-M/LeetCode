@@ -376,6 +376,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
@@ -424,6 +425,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0049-group-anagrams](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
+| [0940-distinct-subsequences-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
