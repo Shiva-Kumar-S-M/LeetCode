@@ -316,6 +316,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -382,6 +383,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0940-distinct-subsequences-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -416,6 +418,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | [0217-contains-duplicate](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0242-valid-anagram) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -443,6 +446,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 | ------- |
 | [0035-search-insert-position](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
