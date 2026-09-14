@@ -330,6 +330,7 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1927-sum-game) |
@@ -513,4 +514,8 @@ git clone https://github.com/Shiva-Kumar-S-M/LeetCode.git
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
