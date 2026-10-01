@@ -88,6 +88,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -100,6 +101,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -120,6 +122,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
