@@ -89,6 +89,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -97,6 +98,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -123,6 +125,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -130,6 +133,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
