@@ -124,6 +124,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -151,4 +152,8 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
