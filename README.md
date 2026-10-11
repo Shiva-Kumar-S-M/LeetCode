@@ -139,6 +139,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -184,4 +185,8 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
