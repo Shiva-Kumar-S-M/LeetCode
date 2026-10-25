@@ -133,6 +133,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +146,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -186,6 +188,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
@@ -248,6 +251,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -269,4 +273,8 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
