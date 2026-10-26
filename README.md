@@ -134,6 +134,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [0301-remove-invalid-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -190,6 +192,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +256,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -277,4 +281,5 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
