@@ -149,6 +149,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -237,6 +238,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
