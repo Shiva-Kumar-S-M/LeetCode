@@ -168,6 +168,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -245,6 +246,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
