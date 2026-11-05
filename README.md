@@ -143,6 +143,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -154,6 +155,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -223,6 +225,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
@@ -319,4 +322,8 @@ The repository does not declare a specific Python version (no `requirements.txt`
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
