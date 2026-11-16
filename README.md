@@ -108,6 +108,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -240,6 +241,7 @@ The repository does not declare a specific Python version (no `requirements.txt`
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shiva-Kumar-S-M/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
